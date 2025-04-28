@@ -9,7 +9,7 @@ print(type(sum)) # <class 'float'>
 
 # Type casting
 a = 5
-b = 2.5
+b = "2"
 
 sum = a + int(b)
 
