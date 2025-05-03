@@ -777,6 +777,6 @@
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Vaibhav-kesarwani/python-learn.git)
 
 
-## Stargazers over time
+<!-- ## Stargazers over time -->
 
-[![Stargazers over time](https://starchart.cc/Vaibhav-kesarwani/python-learn.svg)](https://starchart.cc/Vaibhav-kesarwani/python-learn)
+<!-- [![Stargazers over time](https://starchart.cc/Vaibhav-kesarwani/python-learn.svg)](https://starchart.cc/Vaibhav-kesarwani/python-learn) -->
